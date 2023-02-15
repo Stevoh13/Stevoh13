@@ -7,7 +7,7 @@ I'm passionate about web and software development, football, and music.
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: My head shines brighter than the sun.
-- 🌱 I’m currently learning JavaScript, Nodejs, HTMl and CSS.
+- 🌱 I’m currently learning JavaScript, Nodejs, HTML and CSS.
 - 😊 I’m looking for help with OpenSource projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Developer, Backend (Intern or Junior).
 - 📫 You can contact me by emailing stevenkgn@gmail.com.
